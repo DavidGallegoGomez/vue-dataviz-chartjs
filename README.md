@@ -1,4 +1,9 @@
-# chartjs-webinar
+# Webinar visualización de datos web con ChartJS (y Vue.js)
+Materiales del webinar sobre visualización de datos con ChartJS impartido desde Ironhack Madrid | 90 min - abril y mayo 2020
+
+Explora algunas de las posibilidades de [Chartjs](https://www.chartjs.org/) conectándolo a una [API de montañas rusas](https://github.com/german-alvarez-dev/api-coasters).
+
+Impartido por [Germán Álvarez](https://github.com/german-alvarez-dev/webinar-data-visualization-chartjs/blob/master/README.md).
 
 ## Project setup
 ```
